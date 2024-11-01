@@ -1,0 +1,1489 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: stars-testimonials 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2022-02-08 12:48+0530\n"
+"PO-Revision-Date: 2016-09-09 18:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: Stars Testimonials\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: __;_e;_x;_ex;_n;_nx;_n_noop;_nx_noop;"
+"translate_nooped_plural;esc_html__;esc_html_e;esc_html_x;esc_attr__;"
+"esc_attr_e;esc_attr_x;number_format_i18n;date_i18n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: add-new-shortcode.php:6
+msgid "Create Shortcode"
+msgstr ""
+
+#: add-new-shortcode.php:6 add-new-shortcode.php:68 all-shortcodes.php:13
+#: collect_review_page.php:37 no-testimonials.php:4 plugin.class.php:522
+#: plugin.class.php:812 update-shortcode.php:24 update-shortcode.php:79
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: add-new-shortcode.php:12 update-shortcode.php:27
+msgid "Choose testimonial style"
+msgstr ""
+
+#: add-new-shortcode.php:17 add-new-shortcode.php:20
+#: testimonial-settings.php:20 testimonial-settings.php:23
+#: update-shortcode.php:30 update-shortcode.php:33
+msgid "Grid"
+msgstr ""
+
+#: add-new-shortcode.php:26 add-new-shortcode.php:29
+#: testimonial-settings.php:29 testimonial-settings.php:32
+#: update-shortcode.php:39 update-shortcode.php:42
+msgid "Wall"
+msgstr ""
+
+#: add-new-shortcode.php:36 add-new-shortcode.php:39
+#: testimonial-settings.php:38 testimonial-settings.php:41
+#: update-shortcode.php:49 update-shortcode.php:52
+msgid "Slider"
+msgstr ""
+
+#: add-new-shortcode.php:68 testimonial-settings.php:55
+#: update-shortcode.php:79
+msgid "Customize"
+msgstr ""
+
+#: add-new-shortcode.php:83 testimonial-settings.php:122
+#: testimonial-settings.php:277 update-shortcode.php:94
+msgid "General settings"
+msgstr ""
+
+#: add-new-shortcode.php:96 update-shortcode.php:107
+msgid "Shortcode name"
+msgstr ""
+
+#: add-new-shortcode.php:105 update-shortcode.php:116
+msgid "Font Family"
+msgstr ""
+
+#: add-new-shortcode.php:128 update-shortcode.php:139
+msgid "Columns"
+msgstr ""
+
+#: add-new-shortcode.php:138 plugin.class.php:1010 plugin.class.php:1541
+#: update-shortcode.php:149
+msgid "Categories"
+msgstr ""
+
+#: add-new-shortcode.php:152 update-shortcode.php:167
+msgid "# of testimonials"
+msgstr ""
+
+#: add-new-shortcode.php:160 plugin.class.php:1548 update-shortcode.php:175
+msgid "Order"
+msgstr ""
+
+#: add-new-shortcode.php:165 update-shortcode.php:180
+msgid "Date ascending"
+msgstr ""
+
+#: add-new-shortcode.php:166 update-shortcode.php:181
+msgid "Date descending"
+msgstr ""
+
+#: add-new-shortcode.php:167 update-shortcode.php:182
+msgid "Title ascending"
+msgstr ""
+
+#: add-new-shortcode.php:168 update-shortcode.php:183
+msgid "Title descending"
+msgstr ""
+
+#: add-new-shortcode.php:175 update-shortcode.php:190
+msgid "Character limit"
+msgstr ""
+
+#: add-new-shortcode.php:189 update-shortcode.php:204
+msgid "Read more link"
+msgstr ""
+
+#: add-new-shortcode.php:192 update-shortcode.php:207
+msgid ""
+"Users will see a read more link for longer testimonials to read the full "
+"text"
+msgstr ""
+
+#: add-new-shortcode.php:207 update-shortcode.php:222
+msgid "Read more text"
+msgstr ""
+
+#: add-new-shortcode.php:210 plugin.class.php:1182 plugin.class.php:1230
+msgid "Read more"
+msgstr ""
+
+#: add-new-shortcode.php:215 update-shortcode.php:230
+msgid "Read more color"
+msgstr ""
+
+#: add-new-shortcode.php:223 update-shortcode.php:238
+msgid "Collect testimonials from your visitors"
+msgstr ""
+
+#: add-new-shortcode.php:226 update-shortcode.php:241
+msgid ""
+"Collect testimonials from your website's visitors by showing a button "
+"under your testimonials widget. Your testimonials will be added once you "
+"approve them. You can also create a direct link to your clients so they "
+"can submit their testimonials."
+msgstr ""
+
+#: add-new-shortcode.php:237 add-new-shortcode.php:281
+#: add-new-shortcode.php:305 testimonial-settings.php:27
+#: testimonial-settings.php:36 update-shortcode.php:252
+#: update-shortcode.php:299 update-shortcode.php:324
+msgid "Pro Feature"
+msgstr ""
+
+#: add-new-shortcode.php:242 testimonial-settings.php:161
+#: update-shortcode.php:257
+msgid "Color settings"
+msgstr ""
+
+#: add-new-shortcode.php:289 update-shortcode.php:308
+msgid "Support Rating Schema"
+msgstr ""
+
+#: add-new-shortcode.php:292 update-shortcode.php:311
+msgid ""
+"Add rating schema to your page for Google search pages. Rating schema will "
+"load on the page where you place the shortcode and it'll be updated "
+"automatically as per the total number of reviews and the average review"
+msgstr ""
+
+#: add-new-shortcode.php:303 update-shortcode.php:322
+msgid "Enable ratings schema where this widget is loaded"
+msgstr ""
+
+#: add-new-shortcode.php:316 update-shortcode.php:360
+msgid "Back"
+msgstr ""
+
+#: add-new-shortcode.php:317 update-shortcode.php:361
+msgid "Finish"
+msgstr ""
+
+#: add-new-shortcode.php:319 update-shortcode.php:363
+msgid "Reset"
+msgstr ""
+
+#: all-shortcodes.php:13 no-testimonials.php:4 plugin.class.php:804
+msgid "All Widget Shortcodes"
+msgstr ""
+
+#: all-shortcodes.php:21
+msgid "Type"
+msgstr ""
+
+#: all-shortcodes.php:22
+msgid "Name"
+msgstr ""
+
+#: all-shortcodes.php:23
+msgid "Widget Shortcode"
+msgstr ""
+
+#: all-shortcodes.php:24
+msgid "Action"
+msgstr ""
+
+#: all-shortcodes.php:38
+msgid "Click to copy"
+msgstr ""
+
+#: all-shortcodes.php:45
+msgid "Preview"
+msgstr ""
+
+#: all-shortcodes.php:47
+msgid "Edit"
+msgstr ""
+
+#: all-shortcodes.php:50
+msgid "Remove"
+msgstr ""
+
+#: all-shortcodes.php:59
+msgid "+ Create Your First Shortcode"
+msgstr ""
+
+#: class-affiliate.php:146
+#, php-format
+msgid ""
+"Hi there, you've been using %s for a while now. Do you know that %s has an "
+"affiliate program? Join now and get %s"
+msgstr ""
+
+#: class-affiliate.php:147
+msgid "Dismiss"
+msgstr ""
+
+#: class-affiliate.php:150
+msgid "Tell me more"
+msgstr ""
+
+#: class-affiliate.php:155
+msgid "Would you like us to remind  you about this later?"
+msgstr ""
+
+#: class-affiliate.php:157
+msgid "Remind me in 3 days"
+msgstr ""
+
+#: class-affiliate.php:158
+msgid "Remind me in 10 days"
+msgstr ""
+
+#: class-affiliate.php:159
+msgid "Don't remind me about this"
+msgstr ""
+
+#: class-review-box.php:228
+#, php-format
+msgid ""
+"Hi there, it seems like %s is bringing you some value, and that's pretty "
+"awesome! Can you please show us some love and rate %s on WordPress? It'll "
+"only take 2 minutes of your time, and will really help us spread the word "
+"- %s, %s"
+msgstr ""
+
+#: class-review-box.php:235
+msgid "I'd love to help :) "
+msgstr ""
+
+#: class-review-box.php:236
+msgid "Not this time "
+msgstr ""
+
+#: class-review-box.php:237
+msgid "I've already rated you "
+msgstr ""
+
+#: class-review-box.php:246
+msgid "You are awesome "
+msgstr ""
+
+#: class-review-box.php:247
+msgid "Thanks for your support, We really appreciate it!"
+msgstr ""
+
+#: class-review-box.php:248
+msgid "Premio team "
+msgstr ""
+
+#: class-review-box.php:257
+msgid "Would you like us to remind you about this later?"
+msgstr ""
+
+#: class-review-box.php:260
+msgid "Remind me in 3 days "
+msgstr ""
+
+#: class-review-box.php:261
+msgid "Remind me in 10 days "
+msgstr ""
+
+#: class-review-box.php:262 class-upgrade-box.php:234
+msgid "Don't remind me about this "
+msgstr ""
+
+#: class-upgrade-box.php:218
+#, php-format
+msgid "%s to experience more awesome features"
+msgstr ""
+
+#: class-upgrade-box.php:218
+msgid "Upgrade to "
+msgstr ""
+
+#: class-upgrade-box.php:220
+msgid "Upgrade now"
+msgstr ""
+
+#: class-upgrade-box.php:230
+msgid "Would you like us to remind you about this later? "
+msgstr ""
+
+#: class-upgrade-box.php:232
+msgid "Remind me in 7 days "
+msgstr ""
+
+#: class-upgrade-box.php:233
+msgid "Remind me in 30 days"
+msgstr ""
+
+#: collect_review_page.php:4
+msgid "Collect testimonials from your website’s visitors 🚀"
+msgstr ""
+
+#: collect_review_page.php:13
+msgid ""
+"Collect testimonials with ease by showing a button under your testimonials,"
+msgstr ""
+
+#: collect_review_page.php:13
+msgid "your visitors will be able to submit testimonials"
+msgstr ""
+
+#: collect_review_page.php:22
+msgid "Control which testimonials are shown and which aren’t."
+msgstr ""
+
+#: collect_review_page.php:22
+msgid ""
+"The testimonials will be added your website only after you approve the "
+"testimonials."
+msgstr ""
+
+#: collect_review_page.php:31
+msgid "Create a direct link for testimonials submission."
+msgstr ""
+
+#: collect_review_page.php:31
+msgid ""
+"Use our direct link and send it to your clients so they can submit their "
+"testimonial"
+msgstr ""
+
+#: deactivate-form.php:120
+msgid "Quick feedback about Stars Testimonials"
+msgstr ""
+
+#: deactivate-form.php:123
+msgid ""
+"Your feedback will help us improve the product, please tell us why did you "
+"decide to deactivate Stars Testimonials :)"
+msgstr ""
+
+#: deactivate-form.php:125
+msgid "Email address"
+msgstr ""
+
+#: deactivate-form.php:129
+msgid "Your comment"
+msgstr ""
+
+#: deactivate-form.php:134
+msgid "Anonymous feedback"
+msgstr ""
+
+#: deactivate-form.php:140
+msgid "Cancel"
+msgstr ""
+
+#: help.php:7
+msgid "Gal Dubinski"
+msgstr ""
+
+#: help.php:7
+msgid "Co-Founder at Premio"
+msgstr ""
+
+#: help.php:10
+msgid ""
+"Hello! Are you experiencing any problems with Stars Testimonials? Please "
+"let me know :)"
+msgstr ""
+
+#: help.php:12 plugin.class.php:401
+msgid "Email"
+msgstr ""
+
+#: help.php:15
+msgid "How can I help you?"
+msgstr ""
+
+#: help.php:18 help.php:46
+msgid "Chat"
+msgstr ""
+
+#: help.php:26 help.php:27
+msgid "Need help?"
+msgstr ""
+
+#: help.php:33
+msgid "Sending Request..."
+msgstr ""
+
+#: help.php:52
+msgid "Done!"
+msgstr ""
+
+#: help.php:55
+msgid "Your message is sent successfully."
+msgstr ""
+
+#: help.php:58
+msgid ""
+"There is some problem in sending request. Please send us mail on <a "
+"href='mailto:contact@premio.io'>contact@premio.io</a>"
+msgstr ""
+
+#: no-testimonials.php:4
+msgid "New Widget Shortcode"
+msgstr ""
+
+#: no-testimonials.php:8
+msgid ""
+"In order to create your first widget shortcode, please make sure you’ve "
+"created at least one testimonial that will be shown in the widget"
+msgstr ""
+
+#: no-testimonials.php:9
+msgid "Create Your First Testimonial"
+msgstr ""
+
+#: plugin.class.php:129 plugin.class.php:134 plugin.class.php:415
+#: plugin.class.php:422 plugin.class.php:626 plugin.class.php:628
+#: plugin.class.php:630 plugin.class.php:632 plugin.class.php:662
+#: plugin.class.php:664 plugin.class.php:666 plugin.class.php:668
+#: plugin.class.php:670
+msgid "Your request is not valid"
+msgstr ""
+
+#: plugin.class.php:341
+msgid "Move to Folder"
+msgstr ""
+
+#: plugin.class.php:358
+msgid "Client's name"
+msgstr ""
+
+#: plugin.class.php:361 testimonial-add.php:102
+msgid "Client's image"
+msgstr ""
+
+#: plugin.class.php:389
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: plugin.class.php:394
+msgid "Please enter your message"
+msgstr ""
+
+#: plugin.class.php:486 update-shortcode.php:377
+msgid "Upgrade"
+msgstr ""
+
+#: plugin.class.php:522
+msgid "+ New Widget Shortcode"
+msgstr ""
+
+#: plugin.class.php:529
+msgid ""
+"You have reached to maximum testimonial limit. Add more testimonials by <a "
+"href='"
+msgstr ""
+
+#: plugin.class.php:643
+msgid "Shortcode has been removed successfully"
+msgstr ""
+
+#: plugin.class.php:781
+msgid "Testimonial shortcode is created successfully"
+msgstr ""
+
+#: plugin.class.php:784
+msgid "Testimonial shortcode is updated successfully"
+msgstr ""
+
+#: plugin.class.php:802
+msgid "Recommended Plugins"
+msgstr ""
+
+#: plugin.class.php:806
+msgid "Collect Testimonials"
+msgstr ""
+
+#: plugin.class.php:874
+msgid "Client’s name"
+msgstr ""
+
+#: plugin.class.php:948
+msgid "Save Settings"
+msgstr ""
+
+#: plugin.class.php:951
+msgid "Are you sure you want to delete the selected shortcode?"
+msgstr ""
+
+#: plugin.class.php:952
+msgid "This filed is required"
+msgstr ""
+
+#: plugin.class.php:976
+msgid "Testimonials"
+msgstr ""
+
+#: plugin.class.php:977 plugin.class.php:979
+msgid "Testimonial"
+msgstr ""
+
+#: plugin.class.php:978 widgets/class-stars-elementor.php:66
+msgid "Stars Testimonials"
+msgstr ""
+
+#: plugin.class.php:980 plugin.class.php:981
+msgid "+ New Testimonial"
+msgstr ""
+
+#: plugin.class.php:982
+msgid "New Testimonial"
+msgstr ""
+
+#: plugin.class.php:983
+msgid "Edit Testimonial"
+msgstr ""
+
+#: plugin.class.php:984
+msgid "View Testimonial"
+msgstr ""
+
+#: plugin.class.php:985
+msgid "All Testimonials"
+msgstr ""
+
+#: plugin.class.php:986
+msgid "Search Testimonials"
+msgstr ""
+
+#: plugin.class.php:987
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: plugin.class.php:988
+msgid ""
+"<div class=\"no-testimonial-record\"><a class=\"link add-testimonial-record"
+"\" href=\""
+msgstr ""
+
+#: plugin.class.php:989
+msgid "No Testimonials found in Trash."
+msgstr ""
+
+#: plugin.class.php:994
+msgid "Your Testimonials."
+msgstr ""
+
+#: plugin.class.php:1011
+msgid "Category"
+msgstr ""
+
+#: plugin.class.php:1012
+msgid "Search Categories"
+msgstr ""
+
+#: plugin.class.php:1013
+msgid "All Categories"
+msgstr ""
+
+#: plugin.class.php:1014
+msgid "Parent Category"
+msgstr ""
+
+#: plugin.class.php:1015
+msgid "Parent Category:"
+msgstr ""
+
+#: plugin.class.php:1016
+msgid "Edit Category"
+msgstr ""
+
+#: plugin.class.php:1017
+msgid "Update Category"
+msgstr ""
+
+#: plugin.class.php:1018
+msgid "Add New Category"
+msgstr ""
+
+#: plugin.class.php:1019
+msgid "New Category Name"
+msgstr ""
+
+#: plugin.class.php:1020
+msgid "Testimonial Categories"
+msgstr ""
+
+#: plugin.class.php:1043 plugin.class.php:1046
+msgid "Testimonial updated."
+msgstr ""
+
+#: plugin.class.php:1044
+msgid "Custom field updated."
+msgstr ""
+
+#: plugin.class.php:1045
+msgid "Custom field deleted."
+msgstr ""
+
+#: plugin.class.php:1047
+#, php-format
+msgid "Testimonial restored to revision from %s"
+msgstr ""
+
+#: plugin.class.php:1048
+msgid "Testimonial published."
+msgstr ""
+
+#: plugin.class.php:1049
+msgid "Testimonial saved."
+msgstr ""
+
+#: plugin.class.php:1050
+msgid "Testimonial submitted."
+msgstr ""
+
+#: plugin.class.php:1052
+#, php-format
+msgid "Testimonial scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: plugin.class.php:1053
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: plugin.class.php:1055
+msgid "Testimonial draft updated."
+msgstr ""
+
+#: plugin.class.php:1064
+msgid "Testimonial Settings"
+msgstr ""
+
+#: plugin.class.php:1474
+msgid "Stars Testimonial"
+msgstr ""
+
+#: plugin.class.php:1477 widgets/class-stars-elementor.php:120
+msgid "Content"
+msgstr ""
+
+#: plugin.class.php:1481 testimonial-settings.php:11
+msgid "Testimonial Type"
+msgstr ""
+
+#: plugin.class.php:1483
+msgid "Choose how you want to display testimonials"
+msgstr ""
+
+#: plugin.class.php:1493
+msgid "Testimonial Style"
+msgstr ""
+
+#: plugin.class.php:1495
+msgid "Choose single testimonial style here"
+msgstr ""
+
+#: plugin.class.php:1519 plugin.class.php:1570
+msgid "Number of Columns"
+msgstr ""
+
+#: plugin.class.php:1521
+msgid "How many testimonials in a row"
+msgstr ""
+
+#: plugin.class.php:1543
+msgid "Comma separated categories IDs"
+msgstr ""
+
+#: plugin.class.php:1550
+msgid "ASC or DESC"
+msgstr ""
+
+#: plugin.class.php:1555
+msgid "Order By"
+msgstr ""
+
+#: plugin.class.php:1557
+msgid "Eg: date"
+msgstr ""
+
+#: plugin.class.php:1562
+msgid "Total Number of Testimonials"
+msgstr ""
+
+#: plugin.class.php:1564
+msgid "How many maximum testimonials you want to display, -1 for all"
+msgstr ""
+
+#: plugin.class.php:1572
+msgid "How many testimonials at a time"
+msgstr ""
+
+#: plugin.class.php:1579
+msgid "Slides to Scroll"
+msgstr ""
+
+#: plugin.class.php:1581
+msgid "How many testimonial scroll at a time"
+msgstr ""
+
+#: plugin.class.php:1588
+msgid "Slider Speed"
+msgstr ""
+
+#: plugin.class.php:1590
+msgid "Provide slide speed in ms"
+msgstr ""
+
+#: plugin.class.php:1597
+msgid "Bottom Dots"
+msgstr ""
+
+#: plugin.class.php:1599
+msgid "Check to enable dots"
+msgstr ""
+
+#: plugin.class.php:1606
+msgid "Arrows"
+msgstr ""
+
+#: plugin.class.php:1608
+msgid "Check to enable navigation arrows"
+msgstr ""
+
+#: plugin.class.php:1615
+msgid "Auto Play"
+msgstr ""
+
+#: plugin.class.php:1617
+msgid "Check to enable auto play"
+msgstr ""
+
+#: plugin.class.php:1624
+msgid "Auto Play Speed"
+msgstr ""
+
+#: plugin.class.php:1626
+msgid "Auto Play speed in ms Eg: 3000"
+msgstr ""
+
+#: plugin.class.php:1633
+msgid "Stars Color"
+msgstr ""
+
+#: plugin.class.php:1635
+msgid "Choose Stars rating color here"
+msgstr ""
+
+#: plugin.class.php:1641
+msgid "Text Color"
+msgstr ""
+
+#: plugin.class.php:1643
+msgid "Choose testimonial text color here"
+msgstr ""
+
+#: plugin.class.php:1649
+msgid "Background Color"
+msgstr ""
+
+#: plugin.class.php:1651
+msgid "Choose testimonial background color here"
+msgstr ""
+
+#: plugin.class.php:1657
+msgid "Title Color"
+msgstr ""
+
+#: plugin.class.php:1659
+msgid "Choose testimonial title color here"
+msgstr ""
+
+#: plugin.class.php:1665
+msgid "Company Name Color"
+msgstr ""
+
+#: plugin.class.php:1667
+msgid "Choose testimonial company name color here"
+msgstr ""
+
+#: plugin.class.php:1673
+msgid "Slider Arrows"
+msgstr ""
+
+#: plugin.class.php:1675
+msgid "Choose testimonial slider arrows color here"
+msgstr ""
+
+#: preview-shortcode.php:20
+msgid "Shortcode Preview"
+msgstr ""
+
+#: recommended-plugins.php:93
+msgid "Try out our recommended plugins"
+msgstr ""
+
+#: recommended-plugins.php:95
+msgid "Hide From Menu"
+msgstr ""
+
+#: recommended-plugins.php:141
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: recommended-plugins.php:165
+#, php-format
+msgid "Install %s now"
+msgstr ""
+
+#: recommended-plugins.php:167
+msgid "Install Now"
+msgstr ""
+
+#: recommended-plugins.php:172
+msgid "Cannot Install"
+msgstr ""
+
+#: recommended-plugins.php:187
+#, php-format
+msgid "Update %s now"
+msgstr ""
+
+#: recommended-plugins.php:189
+msgid "Update Now"
+msgstr ""
+
+#: recommended-plugins.php:194
+msgid "Cannot Update"
+msgstr ""
+
+#: recommended-plugins.php:205
+msgid "Active"
+msgstr ""
+
+#: recommended-plugins.php:208
+msgid "Activate"
+msgstr ""
+
+#: recommended-plugins.php:210
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: recommended-plugins.php:221
+msgid "Network Activate"
+msgstr ""
+
+#: recommended-plugins.php:223
+#, php-format
+msgid "Network Activate %s"
+msgstr ""
+
+#: recommended-plugins.php:236
+msgid "Installed"
+msgstr ""
+
+#: recommended-plugins.php:252
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: recommended-plugins.php:254
+msgid "More Details"
+msgstr ""
+
+#: recommended-plugins.php:284
+msgid ""
+"This plugin doesn&#8217;t work with your versions of WordPress and PHP."
+msgstr ""
+
+#: recommended-plugins.php:288
+#, php-format
+msgid ""
+"<a href=\"%1$s\">Please update WordPress</a>, and then <a href=\"%2$s"
+"\">learn more about updating PHP</a>."
+msgstr ""
+
+#: recommended-plugins.php:296 recommended-plugins.php:312
+#, php-format
+msgid "<a href=\"%s\">Please update WordPress</a>."
+msgstr ""
+
+#: recommended-plugins.php:302 recommended-plugins.php:321
+#, php-format
+msgid "<a href=\"%s\">Learn more about updating PHP</a>."
+msgstr ""
+
+#: recommended-plugins.php:308
+msgid "This plugin doesn&#8217;t work with your version of WordPress."
+msgstr ""
+
+#: recommended-plugins.php:317
+msgid "This plugin doesn&#8217;t work with your version of PHP."
+msgstr ""
+
+#: recommended-plugins.php:365
+msgid "Last Updated:"
+msgstr ""
+
+#: recommended-plugins.php:368
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: recommended-plugins.php:377
+#, php-format
+msgid "%s+ Million"
+msgstr ""
+
+#: recommended-plugins.php:381
+msgid "Less Than 10"
+msgstr ""
+
+#: recommended-plugins.php:386
+#, php-format
+msgid "%s Active Installations"
+msgstr ""
+
+#: recommended-plugins.php:392
+msgid "Untested with your version of WordPress"
+msgstr ""
+
+#: recommended-plugins.php:394
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr ""
+
+#: recommended-plugins.php:396
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr ""
+
+#: recommended-plugins.php:406
+msgid "Are you sure?"
+msgstr ""
+
+#: recommended-plugins.php:407
+msgid ""
+"If you hide the recommended plugins page from your menu, it won't appear "
+"there again. Are you sure you'd like to do it?"
+msgstr ""
+
+#: templates/admin/style1.php:4 templates/admin/style11.php:4
+#: templates/admin/style12.php:8 templates/admin/style13.php:6
+#: templates/admin/style14.php:5 templates/admin/style15.php:5
+#: templates/admin/style16.php:11 templates/admin/style17.php:5
+#: templates/admin/style2.php:5 templates/admin/style3.php:4
+#: templates/admin/style4.php:4 templates/admin/style5.php:12
+#: templates/admin/style6.php:4 templates/admin/style7.php:5
+#: templates/admin/style8.php:8 templates/admin/style9.php:4
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: templates/admin/style1.php:7 templates/admin/style10.php:10
+#: templates/admin/style11.php:8 templates/admin/style12.php:3
+#: templates/admin/style13.php:3 templates/admin/style15.php:3
+#: templates/admin/style16.php:3 templates/admin/style17.php:4
+#: templates/admin/style2.php:3 templates/admin/style3.php:7
+#: templates/admin/style4.php:11 templates/admin/style5.php:3
+#: templates/admin/style6.php:10 templates/admin/style7.php:11
+#: templates/admin/style8.php:4 templates/admin/style9.php:8
+msgid "User "
+msgstr ""
+
+#: templates/admin/style10.php:5
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod "
+"tempor."
+msgstr ""
+
+#: testimonial-add.php:5
+msgid "Create new testimonial"
+msgstr ""
+
+#: testimonial-add.php:10
+msgid "Client's name:"
+msgstr ""
+
+#: testimonial-add.php:19 testimonial-update.php:36
+msgid "Testimonial text:"
+msgstr ""
+
+#: testimonial-add.php:39 testimonial-update.php:56
+msgid "Type in the testimonial here"
+msgstr ""
+
+#: testimonial-add.php:49 testimonial-update.php:66
+msgid "Company name and role:"
+msgstr ""
+
+#: testimonial-add.php:58 testimonial-update.php:75
+msgid "Website link (optional):"
+msgstr ""
+
+#: testimonial-add.php:77 testimonial-update.php:94
+msgid "Stars rating:"
+msgstr ""
+
+#: testimonial-add.php:107 testimonial-update.php:128
+msgid "Upload client image"
+msgstr ""
+
+#: testimonial-add.php:108 testimonial-update.php:129
+msgid "Remove image"
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "Recommended sizes"
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "For testimonials with "
+msgstr ""
+
+#: testimonial-add.php:109
+msgid "square images "
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid ", the recommended size is "
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "150x150"
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "For testimonials with"
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "rectangle images"
+msgstr ""
+
+#: testimonial-add.php:109 testimonial-update.php:130
+msgid "440x320"
+msgstr ""
+
+#: testimonial-add.php:126 testimonial-update.php:147
+msgid "Categories (optional):"
+msgstr ""
+
+#: testimonial-add.php:144 testimonial-update.php:166
+msgid "Save Changes"
+msgstr ""
+
+#: testimonial-settings.php:12
+msgid "Testimonial Setting"
+msgstr ""
+
+#: testimonial-settings.php:16
+msgid "Choose testimonial type"
+msgstr ""
+
+#: testimonial-settings.php:53
+msgid "Choose style #1"
+msgstr ""
+
+#: testimonial-settings.php:58
+msgid "Style 1"
+msgstr ""
+
+#: testimonial-settings.php:66
+msgid "Choose style #2"
+msgstr ""
+
+#: testimonial-settings.php:70
+msgid "Style 2"
+msgstr ""
+
+#: testimonial-settings.php:78
+msgid "Choose style #3"
+msgstr ""
+
+#: testimonial-settings.php:82
+msgid "Style 3"
+msgstr ""
+
+#: testimonial-settings.php:90
+msgid "Choose style #4"
+msgstr ""
+
+#: testimonial-settings.php:94
+msgid "Style 4"
+msgstr ""
+
+#: testimonial-settings.php:102
+msgid "Choose style #5"
+msgstr ""
+
+#: testimonial-settings.php:106
+msgid "Style 5"
+msgstr ""
+
+#: testimonial-settings.php:126
+msgid "Columns:"
+msgstr ""
+
+#: testimonial-settings.php:134
+msgid "Categories:"
+msgstr ""
+
+#: testimonial-settings.php:138
+msgid "-All"
+msgstr ""
+
+#: testimonial-settings.php:144
+msgid "# of testimonials:"
+msgstr ""
+
+#: testimonial-settings.php:152
+msgid "Order:"
+msgstr ""
+
+#: testimonial-settings.php:165
+msgid "Stars:"
+msgstr ""
+
+#: testimonial-settings.php:237
+msgid "Text:"
+msgstr ""
+
+#: testimonial-settings.php:245
+msgid "Background:"
+msgstr ""
+
+#: testimonial-settings.php:253
+msgid "Title:"
+msgstr ""
+
+#: testimonial-settings.php:261
+msgid "Company:"
+msgstr ""
+
+#: testimonial-update.php:22
+msgid "Update testimonial"
+msgstr ""
+
+#: testimonial-update.php:27
+msgid "Client name:"
+msgstr ""
+
+#: testimonial-update.php:119
+msgid "Client image"
+msgstr ""
+
+#: testimonial-update.php:130
+msgid "square images"
+msgstr ""
+
+#: testimonial-update.php:130
+msgid ", the recommended size is"
+msgstr ""
+
+#: update-mailjet.php:11
+msgid "Grow your WordPress or Shopify websites with our plugins"
+msgstr ""
+
+#: update-mailjet.php:14
+msgid "Be the first to know product updates, tips & discounts"
+msgstr ""
+
+#: update-mailjet.php:15
+msgid ""
+"Be among the first to know about our latest features & what we’re working "
+"on. Plus insider offer & flash sales"
+msgstr ""
+
+#: update-mailjet.php:29
+msgid "Sign Up"
+msgstr ""
+
+#: update-mailjet.php:36
+msgid "No, I will do it later"
+msgstr ""
+
+#: update-mailjet.php:39
+msgid ""
+"You can remove yourself from the list whenever you want, no strings "
+"attached"
+msgstr ""
+
+#: update-shortcode.php:24
+msgid "Update Shortcode"
+msgstr ""
+
+#: update-shortcode.php:128
+msgid "Default"
+msgstr ""
+
+#: update-shortcode.php:193
+msgid ""
+"The feature will enforce character limit into testimonials as per the input"
+msgstr ""
+
+#: update-shortcode.php:216 update-shortcode.php:249
+msgid "On"
+msgstr ""
+
+#: update-shortcode.php:216 update-shortcode.php:249
+msgid "Off"
+msgstr ""
+
+#: update-shortcode.php:378
+msgid "Get all Pro features for just <span>$19/year</span>"
+msgstr ""
+
+#: update-shortcode.php:379
+msgid "(We will not automatically renew your plan)"
+msgstr ""
+
+#: update-shortcode.php:382
+msgid "Infinite testimonials"
+msgstr ""
+
+#: update-shortcode.php:383
+msgid "Custom color (HEX code)"
+msgstr ""
+
+#: update-shortcode.php:384
+msgid "Wall and slider testimonials"
+msgstr ""
+
+#: update-shortcode.php:385
+msgid "All template styles"
+msgstr ""
+
+#: update-shortcode.php:392
+msgid "Your website URL:"
+msgstr ""
+
+#: update-shortcode.php:396
+msgid "Buy now with paypal"
+msgstr ""
+
+#: update-shortcode.php:397
+msgid "14 days money back guarantee"
+msgstr ""
+
+#: update-shortcode.php:400
+msgid "Payment Options"
+msgstr ""
+
+#: update-shortcode.php:409
+msgid "Client image Options"
+msgstr ""
+
+#: update-shortcode.php:412
+msgid ""
+"Just installed chaty a couple days back. Was a bit skeptical. Then some "
+"leads came through via whatsapp on my site haha. Sold"
+msgstr ""
+
+#: update-shortcode.php:413
+msgid "Deepak Shukla, pearllemon"
+msgstr ""
+
+#: upgrade-to-pro.php:7
+msgid "Unlock All Features"
+msgstr ""
+
+#: upgrade-to-pro.php:11
+msgid "1 Year"
+msgstr ""
+
+#: upgrade-to-pro.php:12 upgrade-to-pro.php:17 upgrade-to-pro.php:22
+msgid "Updates"
+msgstr ""
+
+#: upgrade-to-pro.php:12 upgrade-to-pro.php:17 upgrade-to-pro.php:22
+msgid "Support"
+msgstr ""
+
+#: upgrade-to-pro.php:16
+msgid "2 Years"
+msgstr ""
+
+#: upgrade-to-pro.php:18
+#, php-format
+msgid "32% off"
+msgstr ""
+
+#: upgrade-to-pro.php:21
+msgid "Lifetime"
+msgstr ""
+
+#: upgrade-to-pro.php:23
+#, php-format
+msgid "63% off"
+msgstr ""
+
+#: upgrade-to-pro.php:33
+msgid "Basic"
+msgstr ""
+
+#: upgrade-to-pro.php:34
+msgid "$19"
+msgstr ""
+
+#: upgrade-to-pro.php:34 upgrade-to-pro.php:76 upgrade-to-pro.php:118
+msgid "/year"
+msgstr ""
+
+#: upgrade-to-pro.php:39 upgrade-to-pro.php:81 upgrade-to-pro.php:123
+#, php-format
+msgid "Renewals for 25% off"
+msgstr ""
+
+#: upgrade-to-pro.php:44
+msgid "1 website"
+msgstr ""
+
+#: upgrade-to-pro.php:44
+msgid "Use Stars Testimonials on 1 domain"
+msgstr ""
+
+#: upgrade-to-pro.php:45 upgrade-to-pro.php:87 upgrade-to-pro.php:137
+msgid "Rating Schema support for Google search pages"
+msgstr ""
+
+#: upgrade-to-pro.php:45 upgrade-to-pro.php:87 upgrade-to-pro.php:137
+msgid ""
+"Add rating schema to your WordPress pages where you use Stars Testimonial "
+"shortcode. Google search results would show up with the ratings where you "
+"have enabled the feature"
+msgstr ""
+
+#: upgrade-to-pro.php:46 upgrade-to-pro.php:88 upgrade-to-pro.php:138
+msgid "All styles"
+msgstr ""
+
+#: upgrade-to-pro.php:46 upgrade-to-pro.php:88 upgrade-to-pro.php:138
+msgid "All testimonials templates will be available for you"
+msgstr ""
+
+#: upgrade-to-pro.php:47 upgrade-to-pro.php:89 upgrade-to-pro.php:139
+msgid "All colors"
+msgstr ""
+
+#: upgrade-to-pro.php:47 upgrade-to-pro.php:89 upgrade-to-pro.php:139
+msgid ""
+"You will be able to change the colors of the testimonials components, "
+"including using HEX code"
+msgstr ""
+
+#: upgrade-to-pro.php:48 upgrade-to-pro.php:90 upgrade-to-pro.php:140
+msgid "Slider & Wall"
+msgstr ""
+
+#: upgrade-to-pro.php:48 upgrade-to-pro.php:90 upgrade-to-pro.php:140
+msgid "You can change the way the testimonials will be displayed"
+msgstr ""
+
+#: upgrade-to-pro.php:49 upgrade-to-pro.php:91 upgrade-to-pro.php:141
+msgid "Collect testimonials"
+msgstr ""
+
+#: upgrade-to-pro.php:49
+msgid ""
+"Collect testimonials from your website  visitors by showing a button under "
+"your testimonials widget. Your testimonials will be added once you approve "
+"them. You can also create a direct link to your clients so they can submit "
+"their testimonials."
+msgstr ""
+
+#: upgrade-to-pro.php:56 upgrade-to-pro.php:98 upgrade-to-pro.php:148
+msgid "Updates & support for 1 year"
+msgstr ""
+
+#: upgrade-to-pro.php:59 upgrade-to-pro.php:101 upgrade-to-pro.php:151
+msgid "Updates & support for 2 years"
+msgstr ""
+
+#: upgrade-to-pro.php:62 upgrade-to-pro.php:104 upgrade-to-pro.php:154
+msgid "Updates & support for lifetime"
+msgstr ""
+
+#: upgrade-to-pro.php:66 upgrade-to-pro.php:108 upgrade-to-pro.php:158
+msgid "Buy now"
+msgstr ""
+
+#: upgrade-to-pro.php:75
+msgid "Plus"
+msgstr ""
+
+#: upgrade-to-pro.php:76
+msgid "$39"
+msgstr ""
+
+#: upgrade-to-pro.php:86
+msgid "5 websites"
+msgstr ""
+
+#: upgrade-to-pro.php:86
+msgid "Use Stars Testimonials on 5 domains"
+msgstr ""
+
+#: upgrade-to-pro.php:91 upgrade-to-pro.php:141
+msgid ""
+"Collect testimonials from your websites visitors by showing a button under "
+"your testimonials widget. Your testimonials will be added once you approve "
+"them. You can also create a direct link to your clients so they can submit "
+"their testimonials."
+msgstr ""
+
+#: upgrade-to-pro.php:117
+msgid "Agency"
+msgstr ""
+
+#: upgrade-to-pro.php:118
+msgid "$79"
+msgstr ""
+
+#: upgrade-to-pro.php:131
+msgid "50 websites"
+msgstr ""
+
+#: upgrade-to-pro.php:132
+msgid "500 websites"
+msgstr ""
+
+#: upgrade-to-pro.php:133
+msgid "1000 websites"
+msgstr ""
+
+#: upgrade-to-pro.php:169
+msgid "30 days money back guaranteed"
+msgstr ""
+
+#: upgrade-to-pro.php:172
+msgid ""
+"The plugin will always keep working even if you don't renew your license"
+msgstr ""
+
+#: upgrade-to-pro.php:182
+msgid ""
+"This plugin is used in my website, it is perfect in the All. Support is "
+"great, very fast answer & action! Recommendable!"
+msgstr ""
+
+#: upgrade-to-pro.php:183
+msgid "- Biljana Bili Wechsler, "
+msgstr ""
+
+#: upgrade-to-pro.php:183
+msgid "Bilifotos"
+msgstr ""
+
+#: widgets/class-stars-elementor.php:129
+#: widgets/class-stars-elementor.php:136
+msgid "Select Shortcode"
+msgstr ""
